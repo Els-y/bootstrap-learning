@@ -1,0 +1,62 @@
+body {
+    overflow: scroll;
+}
+
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+    z-index: 1;
+}
+
+#login-form {
+    margin-top: 50px;
+    padding: 35px;
+    border-radius: 6px;
+    border: 1px solid lightgray;
+}
+
+.clear {
+    clear: both;
+}
+
+.search-group {
+    margin-bottom: 20px;
+}
+
+.panel {
+    padding: 0;
+}
+
+.decoration-label {
+    font-size: 15px;
+}
+
+.label-groups {
+    margin-bottom: 20px;
+}
+
+body > .container {
+    margin-top: 30px;
+}
+
+#homeCarousel {
+    top: -250px;
+    z-index: 0;
+}
+
+.thumbnail a {
+    font-size: 25px;
+    color: lightgray;
+}
+.thumbnail a:hover, .thumbnail a:active {
+    color: gray;
+}
+
+.loveit {
+    font-size: 25px;
+    color: red;
+}
+.loveit:hover, .loveit:active {
+    color: rgb(255, 100, 100);
+}
+
